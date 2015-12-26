@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photos! 
+title: zphotos 
 ---
 
 This is my header
